@@ -49,10 +49,10 @@ header {
 }
 
 .links {
-    display: flex;
-    gap: 15px;
-    justify-content: flex-start;
-    margin-top: 16px;
+   display: flex;
+  gap: 15px;
+  justify-content: right;
+  margin-bottom: auto;
 }
 
 main h1 {
